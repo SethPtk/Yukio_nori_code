@@ -9,6 +9,8 @@ nori cambodia
 
 if you wanna the whole bot just download all the file and replace everything in .env
 
+for all emoji dm to me in discord.
+
 make sure you are not missing any file
 
 thank you
